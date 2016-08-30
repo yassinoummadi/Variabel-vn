@@ -70,7 +70,7 @@ Console.ReadLine();
             Console.ReadLine();
             */
 
-            //Övning6
+            //Övning6 
         }
     }
 }
